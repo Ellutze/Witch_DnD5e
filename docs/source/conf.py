@@ -26,3 +26,10 @@ exclude_patterns = []
 
 html_theme = 'bizstyle'
 html_static_path = ['_static']
+
+
+
+rst_prolog = """
+.. role:: underline
+   :class: underline
+"""

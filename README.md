@@ -3,3 +3,5 @@ This is an open source class compatible with DnD5e with 3 sub-classes. Github wa
 
 
 This is currently under development - content is being migrated from private documents - bare with me!
+
+The documentation is technically the content here : https://ellutze.github.io/Witch_DnD5e/
