@@ -35,6 +35,7 @@ way more if she uses headology most of the time, and way less if she uses other 
 
 The degree to Witch wants to restrain herself from casting "real" magic (a.k.a. not headology) is up to a player. However, on default Witches should be reserved in that regard, which also helps mechanically.
 
+.. _borrowing:
 
 Borrowing 
 ---------
@@ -54,6 +55,21 @@ The Range of how far the animal can travel under this effect is 3km.
 This takes bonus action to initiate. It takes action and bonus action of the animal to return back.
 
 For roleplaying purposes Witch is aware that this may be dangerous. The longer the Witch borrows the mind of the animal, the more she becomes that animal. Witches have been known to have their mind lost to the animal while borrowing, never returning to their body.
+
+.. _your_pain_my_pain:
+
+Your pain my pain
+-----------------
+
+All Witches gain "your pain, my pain".
+
+- Once per short rest a Witch can take damage that would otherwise be dealt to another within 10ft of her (this cannot be used if it would down the Witch).
+- (EMP) is not limited to once per short rest, can do this indefinitely
+- (OWL) takes only half the damage immediately, other half at the end of combat (when she considers to be safe, this delayed damage is none-lethal)
+- (BW) can also do the reverse to a willing player/creature (her damage received by another)
+- This can be done to heal people out of combat (needs to be pain-related injuries)
+- The healing trades (lvl/2)*d6 damage (round to nearest integer mathematically)
+
 
 Proficiencies
 -------------

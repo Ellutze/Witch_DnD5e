@@ -86,7 +86,7 @@ Level 5
 -------
 Gain a spell from the :doc:`Spells List` .
 
-Bookworm (BW) learns about a type of creature (select from: elemental, fey, fiend, giant, ooze, dragon, construct, aberration). Basic 
+Bookworm (BW) learns about a type of entity (select from: elemental, fey, fiend, giant, ooze, dragon, construct, aberration). Basic 
 members of this group (non-boses, non-unique monsters) will be subject to BWs borrowing ability (similar to EMP for humanoids above). The 
 Witch also gets a very good understanding about that type of creature (resistances, hit-points, habitats, vulnerabilities, ACs... ).
 
@@ -103,6 +103,8 @@ All Witches gain "your pain, my pain" (refered to as `pain` ability furhter).
 Level 6
 -------
 EMP gets to cast 1 extra headology spell for free once pers short rest.
+
+EMP gets to maintain two stolen spells through long rest.
 
 Attacks with improvised weapons can now be executed as bonus action.
 
@@ -125,6 +127,7 @@ Proficiency increases:
 
 Level 8
 -------
+(EMP) gets to cast an extra headology spell for free once per short rest
 
 Feat/ability score improvement.
 
@@ -146,6 +149,7 @@ Headology spells can be cast as bonus action.
 
 Level 11
 --------
+EMP gets to maintain 3 stolens spells through long rest.
 
 Gain a spell from the :doc:`Spells List` .
 
@@ -159,3 +163,62 @@ Feat/ability score improvement
 Level 13
 --------
 Gain a spell from the :doc:`Spells List` .
+
+Level 14
+--------
+
+Summon broom - Witch can summon her broom from wherever she left it, if there is clear flight path to the Witch. This will take as long as it would take the broom to fly the Witch the same distance.
+
+Level 15
+--------
+Gain a spell from the :doc:`Spells List` .
+
+(TODO) - considering adding option for Dark Witch (Hag) here - for campaigns that went dark whether on accident or by intent. This would also be useful for creation of Hag NPCs.
+
+(EMP) gets to cast an extra headology spell for free once per short rest (now 2)
+
+Level 16
+--------
+
+Feat/ ability score improve
+
+Level 17
+--------
+Gain a spell from the :doc:`Spells List` .
+
+(BW) learns about another type of entity as per level 5 instructions.
+
+Level 18
+--------
+
+Witches get `Stare of the Witch` ability as reaction. If Witch is a direct target of a humanoid she can see, the target has to win a charisma/wisdom/intelligence challenge, each choses ability to roll.
+In the challenge both Witch and attacker roll d20+ability modifier. If attacker loses this challenge they lose the action or bonus action they wanted to use, but not any other resources (spell slots etc.), and 
+the action does not take effect.
+
+Level 19
+--------
+Gain a spell from the :doc:`Spells List` .
+
+(EMP) gets to cast headology spell for free once per short rest (now 3)
+
+Feat/ability score improve
+
+.. _twenty:
+
+Level 20
+--------
+
+Witch gains +2 to Wisdom,Intelligence,Charisma.
+
+Witch gets to cast any headology for free if target (or all targets) have significantly lower ability that corresponds to Witch's spell casting modifier.
+- E.g: if EMP casts spell on target and the target's charisma is lower by 5 than EMP's charisma the spell is free (in terms of spell slots). (Wisdom for (OWL), Intelligence for (BW))
+- at this point in campaign this should equate to free headology most of the time, except NPCs that are gifted in Witche's ability score also.
+
+Witch may now cast borrowing at multiple targets at once (regardless of number Witch still goes unconscious). It may be cast on target first, and later Witch may split between different entities. 
+EMP can control up to 5 humanoids like this. OWL can cantrol 5 large animals, 10 small animals, or up to 100 insects. BW can control 5 entities of the types selected at levels 5 and 17. After Witch has borrowed from multiple entities at the same time, she is mentally confused for about 2 minutes. During these 2 minutes Witch can move, but will need to be guided, she cannot perform any actions or bonus actions.
+If Witch tried to borrow, and didn't succeed for whatever reason, these 2 minutes don't apply.
+
+
+
+
+
