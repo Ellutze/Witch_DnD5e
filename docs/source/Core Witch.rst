@@ -88,6 +88,9 @@ Medicine (always), can be picked again below to enhance the effect.
 
 Choose 3 skills to be proficient with from :  Investigation, Nature, Animal Handling, Insight, Medicine, perception, survival (more will come from subclass at higher level)
 
+Saving thrwo proficiencies per subclass: 
+- EMP gains proficiency at Charisma and Wisdom saving throws.
+- OWL and BW gain proficiency at Intelligence and Wisdom saving throws.
 
 Witch is an independent entity and proud of her skills - she cannot get “help” when undertaking any skill based activities that she is proficient in (This should be balanced by extra abilities).
 

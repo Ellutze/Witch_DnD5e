@@ -5,6 +5,8 @@ Empath it a Witch that trully understands people. This makes her naturally focus
 
 Charisma is Empath's spellcasting ability.
 
+Gains proficiency at Charisma and Wisdom saving throws.
+
 The key ability of Empath is to temporarily learn any spell that she observes being cast, by anyone, friend or foe. This is ability only works on humanoids, and most demons and devils (at discretion of DM). This ability is used as a reaction when target casts a spell, the learning takes place after the effect of the spell, and hence is prevnted by spells that will make the Witch indisposed. Witch must have an appropriate spell slot level available (can't learn higher spells for later, but can learn when out of spell-slots temporarily). Only 1 spell can be maintained through long rest initially, increasing to two spells at level 6, and to three spells at level 11.
 
 Empath can use the :ref:`borrowing` on humanoids as well as animals.Target will likely dislike this - target can succeed intelligence saving throw against it, DC = 6+witch intelligence modifier+witch charisma modifier.
