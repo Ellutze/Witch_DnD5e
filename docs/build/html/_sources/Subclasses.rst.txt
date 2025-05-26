@@ -16,7 +16,7 @@ xxx
 
 
 
-Witch of the land (OWL)
+One With the Land (OWL)
 -----------------------
 
 xxx
@@ -25,7 +25,7 @@ xxx
    :maxdepth: 2
    :caption: Contents:
    
-   Witch of the Land
+   One with the Land
 
 Bookworm (BW)
 -------------

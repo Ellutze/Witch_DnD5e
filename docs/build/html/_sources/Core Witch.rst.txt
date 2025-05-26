@@ -24,6 +24,8 @@ Starting equipement
 	- Travel kettle, and bunch of herbs for tea (player selection)
 	- 4 small health potions
 
+.. _headology:
+
 Headology
 ---------
 

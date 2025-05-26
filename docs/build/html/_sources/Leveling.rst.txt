@@ -1,7 +1,7 @@
 Leveling
 ========
 
-The information here is a duplication in what is avaible in :doc:`Core Witch` and in subclasses (:doc:`Witch of the Land` , :doc:`Bookworm` , :doc:`Empath`). It should be easier to read about a Witch class there, while this page is easier for lvl by level progress tracking.
+The information here is a duplication in what is avaible in :doc:`Core Witch` and in subclasses (:doc:`One with the Land` , :doc:`Bookworm` , :doc:`Empath`). It should be easier to read about a Witch class there, while this page is easier for lvl by level progress tracking.
 
 Selections that fit all classes are not always added here (such as background selection). 
 
@@ -43,7 +43,7 @@ One with the land (OWL)
 
 OWL depends heavily on the DM, so do have a proper conversation prior to this selection.
 
-- May be provided some extra spells from the land she is currently on (details in :doc:`Witch of the Land`)
+- May be provided some extra spells from the land she is currently on (details in :doc:`One with the Land`)
 - Must take a long-rest in the location and spend time seeing the place through local wildlife to begin communicating with it
 - The spells are provided if the Witch's actions are in line with the land itself. E.g. fulfilling a question given by the land in some form, e.g. getting rid of invaders, or protecting woods from loggers.
 - In rare circumstances the land can stand against the Witch
