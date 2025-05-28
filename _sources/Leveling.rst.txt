@@ -5,8 +5,7 @@ The information here is a duplication in what is avaible in :doc:`Core Witch` an
 
 Selections that fit all classes are not always added here (such as background selection). 
 
-Level 1
--------
+**Level 1**
 
 Choose 3 skills to be proficient with from :  Investigation, Nature, Animal Handling, Insight, Medicine, perception, survival. 
 
@@ -53,8 +52,8 @@ OWL depends heavily on the DM, so do have a proper conversation prior to this se
 
 
 
-Level  2
---------
+**Level  2**
+
 Gain a spell from the :doc:`Spells List` .
 
 Witch chooses a familiar (cat, owl, rat...)
@@ -64,12 +63,12 @@ Witch chooses a familiar (cat, owl, rat...)
 - These familiars can die, but they are smart enough to avoid active combat.
 
 
-Level 3
--------
+**Level 3**
+
 Gain a spell from the :doc:`Spells List` .
 
-Level 4
--------
+**Level 4**
+
 Gain a spell from the :doc:`Spells List` .
 
 Witch learns how to use the "borrowing" ability.
@@ -86,8 +85,8 @@ Witch learns how to use the "borrowing" ability.
 
 Feat / ability score improvment
 
-Level 5
--------
+**Level 5**
+
 Gain a spell from the :doc:`Spells List` .
 
 Bookworm (BW) learns about a type of entity (select from: elemental, fey, fiend, giant, ooze, dragon, construct, aberration). Basic 
@@ -104,8 +103,8 @@ All Witches gain "your pain, my pain" (refered to as `pain` ability furhter).
 - The healing trades (lvl/2)*d6 damage (round to nearest integer mathematically)
 
 
-Level 6
--------
+**Level 6**
+
 EMP gets to cast 1 extra headology spell for free once pers short rest.
 
 EMP gets to maintain two stolen spells through long rest.
@@ -114,8 +113,8 @@ Attacks with improvised weapons can now be executed as bonus action.
 
 OWL Learns to listen to the land. The Witch can find prominent place in local biom/land and meditate listening to the ailments and affinities of the land, even receiving explicit missions. Up until now, the Witch would be guessing.
 
-Level 7
--------
+**Level 7**
+
 Gain a spell from the :doc:`Spells List` .
 
 (OWL) gets +2 constitution and proficiency in constitution saving throws when it is staying the same land for more than 2 days (regardless of affinity with the land).
@@ -129,19 +128,17 @@ Proficiency increases:
 
 (BW) gets ability to turn headology spell into non-headology if the target successfully saved it, effectively making the target re-roll for the cost of additional 2 spell slots (any).
 
-Level 8
--------
+**Level 8**
+
 (EMP) gets to cast an extra headology spell for free once per short rest
 
 Feat/ability score improvement.
 
-Level 9
--------
+**Level 9**
 
 Gain a spell from the :doc:`Spells List` .
 
-Level 10
---------
+**Level 10**
 
 Broom flight
 
@@ -151,56 +148,52 @@ Broom flight
 
 Headology spells can be cast as bonus action.
 
-Level 11
---------
+**Level 11**
+
 EMP gets to maintain 3 stolens spells through long rest.
 
 Gain a spell from the :doc:`Spells List` .
 
-Level 12
---------
+**Level 12**
 
 All healing spells are now considered half-headology and can be either cast with 2 spell slots only (1 needs to be appropriate level), or can be cast at standard 4 cost  but provide extra 1d4 healing if multi-target or 1d8 healing if single target)
 
 Feat/ability score improvement
 
-Level 13
---------
+**Level 13**
+
 Gain a spell from the :doc:`Spells List` .
 
-Level 14
---------
+**Level 14**
 
 Summon broom - Witch can summon her broom from wherever she left it, if there is clear flight path to the Witch. This will take as long as it would take the broom to fly the Witch the same distance.
 
-Level 15
---------
+**Level 15**
+
 Gain a spell from the :doc:`Spells List` .
 
 (TODO) - considering adding option for Dark Witch (Hag) here - for campaigns that went dark whether on accident or by intent. This would also be useful for creation of Hag NPCs.
 
 (EMP) gets to cast an extra headology spell for free once per short rest (now 2)
 
-Level 16
---------
+**Level 16**
 
 Feat/ ability score improve
 
-Level 17
---------
+**Level 17**
+
 Gain a spell from the :doc:`Spells List` .
 
 (BW) learns about another type of entity as per level 5 instructions.
 
-Level 18
---------
+**Level 18**
 
 Witches get `Stare of the Witch` ability as reaction. If Witch is a direct target of a humanoid she can see, the target has to win a charisma/wisdom/intelligence challenge, each choses ability to roll.
 In the challenge both Witch and attacker roll d20+ability modifier. If attacker loses this challenge they lose the action or bonus action they wanted to use, but not any other resources (spell slots etc.), and 
 the action does not take effect.
 
-Level 19
---------
+**Level 19**
+
 Gain a spell from the :doc:`Spells List` .
 
 (EMP) gets to cast headology spell for free once per short rest (now 3)
@@ -209,8 +202,7 @@ Feat/ability score improve
 
 .. _twenty:
 
-Level 20
---------
+**Level 20**
 
 Witch gains +2 to Wisdom,Intelligence,Charisma.
 

@@ -26,6 +26,7 @@ exclude_patterns = []
 
 html_theme = 'bizstyle'
 html_static_path = ['_static']
+html_css_files = ['custom.css']
 
 
 

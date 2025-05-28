@@ -25,7 +25,7 @@ From level 7 onwards, OWL gets +2 constitution and proficiency in constitution s
 
 On level 7 OWL also gets proficiency in 2 of the wisdoms based skills (can improve her existent proficiency).
 
-The capstones differ only to some extent between subclasses, refer to :ref:`twenty` for details
+The capstones differ only to some extent between subclasses, refer to :doc:`Leveling` at level 20 for details.
 
 NPC Witch of the land lends itself to some great legendary actions!
 
@@ -121,3 +121,82 @@ Spells marked with * are promoted, as author would deem those really nicely fitt
 - Wall of Ice 
 - Wall of Thorns
 - Heroe's Feast
+
+**Spells level 7**
+
+- Dream of the blue veil
+- Fire Storm
+- Prismatic Spray
+
+**Spells level 8**
+
+- earthquake *
+- control weather *
+- Incendiary Cloud *
+- maze
+- tsunami
+- sunburst
+
+**Spells level 9**
+
+- shapechange (limited to local creatures, beasts etc...)
+- Storm of Vengeance
+- Land Provides (U) (simmilar to wish spell, but the Wish has to be related to the land Witch is staying it, and the wish must be directly supporting the land)
+
+
+Example lands
+-------------
+
+The level of the areas below is not considered, but quests and given spells need to  be appropriate to the party level.
+
+**Rural foresty area**
+
+:underline:`Description:` 
+Lush hilly forests full of streams and dense growth. Home to many large animals and beasts. Tales of magical fog and swamp deep inside the woods that nobody ever comes back from.
+
+:underline:`Spells offered:` 
+Speak with animals, fog, hallucinatory terrain, entangle, animal messanger (potentially passive making Witch temporarily immune to difficult terrain)
+
+:underline:`Land mission:`
+Prevent the human loggers cutting 500 year old trees, or any trees for that matter - and progressing further inside the forest.
+
+:underline:`Affinity:` animals, nature, trolls, dryads
+
+:underline:`Aversion:` loggers, miners, dwarves, goblins, large constructions
+
+**Forgotten castle**
+
+:underline:`Description:` 
+Castle which is no longer inhabtitted, outlaws and goblins camp in the outscrits of the castle. Castle itself is inhabited by demon/fiend/necromancer... who does not belong.
+
+Spells offered: pass without trace, find traps, enhance ability
+
+Land mission: remove the main inhabitant of the castle who is corrupting it.
+
+Affinity: Order, cleanliness, busy life. 
+
+Aversion: Undead, fiends, demons, pigeons.
+
+**Cave system**
+
+Description: deep caves and caverns full of giant spiders and pockets of wild magic.
+
+Spells offered: web, darkvision, darkness
+
+Affinity: spiders, sorcerers, drow , insects 
+
+Aversion: noise, demons, fire
+
+**Exposed Mountain peaks**
+
+Desription: 
+high peaks towering over the landscape, need to be passed through between two major areas. Dangerous to cross due to tempremental weather, large beasts living in these parts, bandits, and paths snaking around the sides of mountains.
+
+Mission: 
+Remove roaming bandits that cause problems for travelers, bring the city guards here, causing escalating amounts of conflicts.
+
+Spells offered: Cone of Cold, Ice Knife, Frostbite, passive granting cold resistance to the Witch
+
+Affinity: religious worship, divinity, humility, serenity
+
+Aversion: lingering humanoids, agression, arrogance

@@ -24,7 +24,7 @@ Bookworm can use the :ref:`your_pain_my_pain` ability in reverse, allowing willi
 
 On level 7 Bookworm gets ability to turn headology spell into non-headology if the target successfully saved it, effectively making the target re-roll for the cost of additional 2 spell slots (any).
 
-The capstones differ only to some extent between subclasses, refer to :ref:`twenty` for details
+The capstones differ only to some extent between subclasses, r refer to :doc:`Leveling` at level 20 for details.
 
 For roleplay purposes author suggest DM provides a magical book that Bookworm carries with her. This book does not on it's own contain any knowledge, but Bookworm can (as free-cast ability) make the book seem like any other book she has seen, and create any fake or real content she is desires. 
 

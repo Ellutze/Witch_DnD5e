@@ -17,4 +17,4 @@ On level 7 Empath gets additional proficiencies in charisma based skills of her 
 
 At level 8 Empath gets to cast a headology spell for free once per short rest. This increases to 2 at level 15 and level, and 3 at level 19.
 
-The capstones differ only to some extent between subclasses, refer to :ref:`twenty` for details
+The capstones differ only to some extent between subclasses,  refer to :doc:`Leveling` at level 20 for details.
