@@ -40,6 +40,7 @@ These are mostly standard DnD5E spells, their effects are available elsewhere, f
 - Tasha’s hideous laughter
 - Witch bolt
 - Sleep (H*)
+- Stare of a Witch (H) - Out of combat only, can turn lost persuation/intimidation checks into positive ones (she can use this to support other party member). She must out-stare the target. She rolls d20+wisdom modifier+constitution modifier agains the same of her oponent, to overrul the original pesuation/intimidation she must beat the oponent by the amount that was missing to succeed the original check. If the Witch loses, she cannot use this ability until long rest.
 
 
 **Level 2 spells**
@@ -64,6 +65,7 @@ These are mostly standard DnD5E spells, their effects are available elsewhere, f
 - Tasha’s mind whip (H)
 - Crown of Madness (H)
 - See invisibility
+- One with the soil (U) - Usable when standing on soil/mud/bog/wood. Witch skips next turn, but is untargetable and cannot take damage, can maintain concentration. At the start of her secont turn from cast Witch can recreate her body at any location within 100ft that is in contact with the same soil/wood/mud/bog. In unlikely case that the material infused with Witches soul is destroyed, Witch is forced out in original location, taking 3d6 psychic damage and is unconscious until the time of her intended recovery.
 
 **Level 3 spells**
 
