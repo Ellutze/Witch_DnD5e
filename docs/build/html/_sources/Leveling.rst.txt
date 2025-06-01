@@ -1,9 +1,9 @@
 Leveling
 ========
 
-The information here is a duplication in what is avaible in :doc:`Core Witch` and in subclasses (:doc:`One with the Land` , :doc:`Bookworm` , :doc:`Empath`). It should be easier to read about a Witch class there, while this page is easier for lvl by level progress tracking.
+The information here is mostly a duplication of what is avaible in :doc:`Core Witch` and in subclasses (:doc:`One with the Land` , :doc:`Bookworm` , :doc:`Empath`). It should be easier to read about a Witch class there, while this page is easier for level by level progress tracking.
 
-Selections that fit all classes are not always added here (such as background selection). 
+Selections that fit all classes are not always added here (such as background selection). (TODO - add this for sake of completeness)
 
 **Level 1**
 
@@ -24,10 +24,10 @@ Saving thrwo proficiencies per subclass:
 Bookworm (BW)
 
 - bookworm understands the value of good light armour and can obscure it
-- as a Witch she will not like to admit she is wearing it, but is profficient at light armour
+- as a Witch she will not like to admit she is wearing it, but is proficient at light armour
 - can learn spells similarly to Wizard. However, BW can only remember 1 spell slot per 2 level starting at level 1. 
-- BW spell casting ability modifier is Inteligence
-- Gains profficiency in intelligence saving throws
+- BW spell casting ability modifier is Intelligence
+- Gains proficiency in intelligence saving throws
 
 
 Empath (EMP)
@@ -47,7 +47,7 @@ OWL depends heavily on the DM, so do have a proper conversation prior to this se
 - The spells are provided if the Witch's actions are in line with the land itself. E.g. fulfilling a question given by the land in some form, e.g. getting rid of invaders, or protecting woods from loggers.
 - In rare circumstances the land can stand against the Witch
 - Gets perks if staying in land she considers her home (e.g. at DM discretions some spell require only one spell slot, as it is cast with the magic borrowed from the land)
-- If OWL has a good knowledge of an animal specie, she can speak freely with it without requireing talk to animals. Player can specify 1 specie like this at the start of the campaign
+- If OWL has a good knowledge of an animal specie, she can speak freely with it without requiring talk to animals. Player can specify 1 specie like this at the start of the campaign
 - OWL recovers 1 spell slot per short rest when resting in land that supports her
 
 
@@ -73,17 +73,17 @@ Gain a spell from the :doc:`Spells List` .
 
 Witch learns how to use the "borrowing" ability.
 
-- Witch can invade consciousness of another being, seeing throw their eyes and commanding their actions - It is traditional that Witch thanks the target later for their service (i.e. by providing food). To command a beast or animal to do something that would be against their nature will require deception/persuasion checks resisted by target intelligence saving throw
+- Witch can invade consciousness of another being, seeing through their eyes and commanding their actions - It is traditional that Witch thanks the target later for their service (i.e. by providing food). To command a beast or animal to do something that would be against their nature will require deception/persuasion checks resisted by target intelligence saving throw
 - TODO : make list of intelligences for beasts and animals
 - standard range is 1km
-- OWL gets increased range to everywhere in the same “land”, if the land is supporting Witch’s actions she can pick up animals consciousness at any range.
+- OWL gets increased range to everywhere in the same “land”, if the land is supporting Witch’s actions she can pick up animal's consciousness at any range.
 - EMP can attempt to “borrow” from humanoids - target will likely dislike this - target can succeed intelligence saving throw against it, DC = 6+witch intelligence modifier+witch charisma modifier )
 - Takes bonus action in combat to cast, but can use actions of the target on their turn
 - Witch falls seemingly unconscious when cast
 - Takes action and bonus action in control of beast to return back
 
 
-Feat / ability score improvment
+Feat / ability score improvement
 
 **Level 5**
 
@@ -93,7 +93,7 @@ Bookworm (BW) learns about a type of entity (select from: elemental, fey, fiend,
 members of this group (non-boses, non-unique monsters) will be subject to BWs borrowing ability (similar to EMP for humanoids above). The 
 Witch also gets a very good understanding about that type of creature (resistances, hit-points, habitats, vulnerabilities, ACs... ).
 
-All Witches gain "your pain, my pain" (refered to as `pain` ability furhter).
+All Witches gain "your pain, my pain" (referred to as `pain` ability furthter).
 
 - Once per short rest a Witch can take damage that would otherwise be dealt to another within 10ft of her (this cannot be used if it would down the Witch).
 - (EMP) is not limited to once per short rest, can do this indefinitely
@@ -122,7 +122,7 @@ Gain a spell from the :doc:`Spells List` .
 Proficiency increases:
 
 - (EMP) becomes proficient in 2 of the 4 charisma based skills (can improve her existent proficiency)
-- (BW) gets proficiency in 2 of the inteligence skills (can improve her existent proficiency)
+- (BW) gets proficiency in 2 of the intelligence skills (can improve her existent proficiency)
 - (OWL) gets proficiency in 2 of the wisdoms based skills (can improve her existent proficiency)
 
 
@@ -208,7 +208,7 @@ Witch gains +2 to Wisdom,Intelligence,Charisma.
 
 Witch gets to cast any headology for free if target (or all targets) have significantly lower ability that corresponds to Witch's spell casting modifier.
 - E.g: if EMP casts spell on target and the target's charisma is lower by 5 than EMP's charisma the spell is free (in terms of spell slots). (Wisdom for (OWL), Intelligence for (BW))
-- at this point in campaign this should equate to free headology most of the time, except NPCs that are gifted in Witche's ability score also.
+- at this point in campaign this should equate to free headology most of the time, except NPCs that are gifted in Witch's ability score also.
 
 Witch may now cast borrowing at multiple targets at once (regardless of number Witch still goes unconscious). It may be cast on target first, and later Witch may split between different entities. 
 EMP can control up to 5 humanoids like this. OWL can cantrol 5 large animals, 10 small animals, or up to 100 insects. BW can control 5 entities of the types selected at levels 5 and 17. After Witch has borrowed from multiple entities at the same time, she is mentally confused for about 2 minutes. During these 2 minutes Witch can move, but will need to be guided, she cannot perform any actions or bonus actions.

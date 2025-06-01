@@ -7,7 +7,7 @@ This is a list of spell options Witch can pick through her leveling process. Eac
 
 (H*) means headology with a condition. This usually requires the Witch to prepare. For instance Hypnotic pattern might be supported by a Witch in her cottage by paint and moving pendulums - if Witch prepared this, she will be casting Hypnotic pattern as :ref:`headology`.
 
-These are mostly standard DnD5E spells, their effects are available elsewhwere, for instance https://dnd5e.wikidot.com/spells . Few unique spells will be added for witches, this will be marked with (U) and will be accompanied by explanation. Few spells are limited to only certain subclass, these are marked by: (OWL), (BW), (EMP).
+These are mostly standard DnD5E spells, their effects are available elsewhere, for instance https://dnd5e.wikidot.com/spells . Few unique spells will be added for witches, this will be marked with (U) and will be accompanied by explanation. Few spells are limited to only certain subclass, these are marked by: (OWL), (BW), (EMP).
 
 **Cantrips**
 

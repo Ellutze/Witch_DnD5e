@@ -1,3 +1,4 @@
 .underline {
-    text-decoration: underline;
+    text-decoration: underline !important;
+    color: red !important;
 }
