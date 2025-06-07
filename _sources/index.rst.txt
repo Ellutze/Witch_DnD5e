@@ -16,10 +16,11 @@ I felt like this kind of caster is missing in the core DnD, with Sorcerers, Wiza
 
 This repository is for DMs and players alike. It should at the very least allow you to understand Witch's abilities, help you select a subclass and walk you through the Witch leveling process.
 
-I am hoping to be adding more specific examples with character sheets, Witch specific quests, and land tips for the :doc:`One with the Land` subclass. However, that will be added as the Witch sees more play. Even while I tried, I do not know how well balanced the Witch is, so feel free to tweak.
+I am hoping to be adding more specific examples with character sheets, Witch specific quests, and land tips for the :doc:`One with the Land` subclass. However, that will be added as the Witch sees more play. I tried, but I do not know how well balanced the Witch is, so feel free to tweak.
 
 The reason this is built as a Git repository (besides ease of use) is to enable collaboration. Feel free to make clones, branches and pull requests to add things - ideally examples of play (more specific instructions of how to contribute are still a TODO). Any feedback is much appreciated. 
 
+https://github.com/Ellutze/Witch_DnD5e 
 
 Contents:
 =========
