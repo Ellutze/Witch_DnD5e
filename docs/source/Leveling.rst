@@ -5,6 +5,8 @@ The information here is mostly a duplication of what is avaible in :doc:`Core Wi
 
 Selections that fit all classes are not always added here (such as background selection). (TODO - add this for sake of completeness)
 
+Witch uses d8 hit dice.
+
 **Level 1**
 
 Choose 3 skills to be proficient with from :  Investigation, Nature, Animal Handling, Insight, Medicine, perception, survival. 

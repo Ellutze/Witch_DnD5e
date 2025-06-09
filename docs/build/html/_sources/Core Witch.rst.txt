@@ -11,6 +11,8 @@ Witch is a "she" by strong convention. If player and DM want a male Which, sure 
 
 Each Witch has a senior Witch that taught her the basics of what being a Witch is all about. It is crucial that player has a good idea about who this mentor is, as it has likely shaped the Witch herself.
 
+Witch uses d8 hit dice.
+
 Roleplay suggestions
 --------------------
 
