@@ -127,6 +127,7 @@ Spells marked with * are promoted, as author would deem those really nicely fitt
 - Dream of the blue veil
 - Fire Storm
 - Prismatic Spray
+- Summon Hydra (U) - Unique spell that allows the Witch to materialize a full size Hydra from the local marshland. (This Hydra classifies as both a construct and a beast). It will be loyal to the Witch for about an hour. If it survives longer it will ignore the Witch and simply become part of local fauna.
 
 **Spells level 8**
 
@@ -200,3 +201,20 @@ Spells offered: Cone of Cold, Ice Knife, Frostbite, passive granting cold resist
 Affinity: religious worship, divinity, humility, serenity
 
 Aversion: lingering humanoids, aggression, arrogance
+
+
+** Swamp **
+
+Description:
+Difficult to travers wet-lands with, mostly covered by humid swamp with tall trees. The few solid pieces of land in the area contain pits of quicksand. 
+
+Spells Offered: Summon Hydra (U), Insect Plague, Water Walk, fog cloud 
+
+Affinity: crocodiles, snakes, insects 
+
+Aversion: humanoids ,constructions, birds
+
+Mission:
+
+Local towns are trying to create a bridge through the swamp-land, drying the swamp, displacing it's creatures and allowing for more humanoids to travers this otherwise secluded land. The land would like you to stop or at least hinder this construction.
+
