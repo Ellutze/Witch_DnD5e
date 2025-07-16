@@ -60,7 +60,7 @@ Notable inspirations
 
 The Witch desribed here draws upon variety of inspirations and it would be impossible to acknowledge all. 
 
-However, I specifically use the term :ref:`borrowing` and :ref:`headology`, terms from Terry Pratchett's Discworld novels. These are not mechanically unique, but I found these terms most appropriate and I sincerely hope I don't annoy any Terry Pratchett's fans (or IP holders) by borrowing (intended) these terms.
+However, I specifically use the terms :ref:`borrowing` and :ref:`headology`, terms from Terry Pratchett's Discworld novels. These are not mechanically unique, but I found these terms most appropriate and I sincerely hope I don't annoy any Terry Pratchett's fans (or IP holders) by borrowing (intended) these terms.
 "Borrowing" is essentially "skinchanging" or "warging" from Songs of Ice and Fire, [insert obvious example my brain forgot here], or even "shintenshin no jutsu" from Naruto. Equally "headology" is a typical trope where abilities appear supernatural, but are simply evidence of intelligence, wisdom, wit and sometimes charisma (Think Mentalist, Loki, Dr. House, Sherlock Holmes, L). 
 
 Miscellaneous
