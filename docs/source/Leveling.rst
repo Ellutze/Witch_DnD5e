@@ -192,7 +192,9 @@ Gain a spell from the :doc:`Spells List` .
 
 Witches get `Stare of the Witch` ability as reaction. If Witch is a direct target of a humanoid she can see, the target has to win a charisma/wisdom/intelligence challenge, each choses ability to roll.
 In the challenge both Witch and attacker roll d20+ability modifier. If attacker loses this challenge they lose the action or bonus action they wanted to use, but not any other resources (spell slots etc.), and 
-the action does not take effect.
+the action does not take effect. Once per short rest.
+
+(TODO: consider sublass differentiation. E.g. unlimited usage but cost at challenge loss?)
 
 **Level 19**
 

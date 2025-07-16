@@ -25,16 +25,26 @@ https://github.com/Ellutze/Witch_DnD5e
 Contents:
 =========
 
-.. toctree::
-   :maxdepth: 2
+.. list-table::
+   :widths: 40 60
+   :header-rows: 0
    
-   Core Witch
-   Subclasses
-   Spells List
-   Leveling
-   Contributions
-   Versions
-   Example Character Sheets
+
+   * - .. toctree::
+          :maxdepth: 2
+   
+          Core Witch
+          Subclasses
+          Spells List
+          Leveling
+          Contributions
+          Versions
+          Example Character Sheets
+	   
+     - .. image:: Witch_from_Ara.*
+          :width: 800
+
+       Illustration by Clarissa (https://www.instagram.com/wilder.kerl/). Thank you Clarissa! 
 
 Legal Information
 =================
