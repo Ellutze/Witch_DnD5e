@@ -41,6 +41,7 @@ These are mostly standard DnD5E spells, their effects are available elsewhere, f
 - Witch bolt
 - Sleep (H*)
 - Stare of a Witch (H) - Out of combat only, can turn lost persuation/intimidation checks into positive ones (she can use this to support other party member). She must out-stare the target. She rolls d20+wisdom modifier+constitution modifier agains the same of her oponent, to overrul the original pesuation/intimidation she must beat the oponent by the amount that was missing to succeed the original check. If the Witch loses, she cannot use this ability until long rest.
+- Magic Siphon (BW)(concentration)(U) - Casts upon a magic user to siphon spell slots. Lasts up to 10 turns. Lowest level spell slot currently available to the target is removed at Witch's start of turn, Witch gains the same level spell slot at the same time. (Note DMs - don't give this spell to other classes, and careful with allowing this if multiclassing)
 
 
 **Level 2 spells**
@@ -82,6 +83,7 @@ These are mostly standard DnD5E spells, their effects are available elsewhere, f
 - Remove curse
 - Speak with Dead
 - Speak with Plants (OWL)
+- Mage Bane Curse (U). Cast upon any target, if the target cast spell it receives Xd12 Psychic damage, where X is the spell level. Last 24 hours if not removed. Can be removed by "remove curse" or equivalent. Note for DM: it is suggested that NPC with low inteligence, that does not know the spell, and does not see the caster cast it will not know that they are cursed until they cast the first spell. Similarly if used against players, the PC might not be aware what was cast, and might need to find out the hard way.
 
 **Level 4 spells**
 
