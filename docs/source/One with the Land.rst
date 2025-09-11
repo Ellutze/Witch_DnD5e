@@ -218,3 +218,30 @@ Mission:
 
 Local towns are trying to create a bridge through the swamp-land, drying the swamp, displacing it's creatures and allowing for more humanoids to travers this otherwise secluded land. The land would like you to stop or at least hinder this construction.
 
+** Ocean **
+
+Description:
+Certain segment of vast ocean, the Witch spends most of her time living on a merchant ship going throught these waters.
+
+Spells Offered: Currents (lvl 1 spell - designate 3 targets that will be pushed in specified direction for 3 turns -20ft/turn. Upcast for 1 target per 1 upcast level.),Summon Great White shark (level 3 spell, headology) ,passive waterbreathing (always can breath under water while in this location),Tidalwave, Summon tidehunter (fights for you for 1h, level 7 spell) 
+
+Affinity: Fish, sharks, water based Great-Old-One
+
+Aversion: man made trash, non-water based Gods and clerics
+
+Mission: Sink a vessel that fishes by luring fish, sharks and vales indiscrimantly by magic into massive traps, destroying local ecosystems in the process.
+
+** Island **
+
+Description:
+(refer to `Shipwreck` oneshot when available) Isolated island with lush jungles and sandy beaches, but surrounded by sharp rocky shores. 
+
+Spells Offered: Friends, Enhanced Fog Cloud (triple the size, second level spell, no range limit within the island, no concentration, lasts 10minutes), Tidalwave, Mislead
+
+Aversion: anything none local killing local ecosystem (migratory birds, invasive specie, smugglers using the island)
+
+Affinity: Local tribe of Kua-toa. Treasure from crashed ships on the shores.
+
+Mission: Destroy the chasm serpent that took residence in internal freshwater cave system, killing local fish population and now endangering the local Kua-Toa
+
+Mission: Evict the smuglers using the island as a layover. 

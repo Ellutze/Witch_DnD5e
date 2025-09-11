@@ -19,7 +19,7 @@ Gain 5 level 1 spell slots.
 
 Select a subclass, refer to :doc:`Subclasses` for details.
 
-Saving thrwo proficiencies per subclass: 
+Saving throw proficiencies per subclass: 
 - EMP gains proficiency at Charisma and Wisdom saving throws.
 - OWL and BW gain proficiency at Intelligence and Wisdom saving throws.
 

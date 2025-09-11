@@ -109,7 +109,7 @@ Ability Scores
 
 Witch is not characterised by being specifically wise, or intelligent or charismatic. What makes a Witch a Witch, is being able to utilize to great potential the innate abilities she possess. Empathetic Witch will rely on her charisma (EMP). Witch that has learned from books will rely on intellect (BW). Witch that learns by careful observation of the world and the situation around her will rely on her wisdom (OWL).
 
-Ability spell-casting modifier is based on subclass. EMP = charisma. OWL = wisdom. BW = bookworm.
+Ability spell-casting modifier is based on subclass. EMP = charisma. OWL = wisdom. BW = intelligence.
 
 Spell Slots
 -----------
