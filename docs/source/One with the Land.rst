@@ -203,7 +203,7 @@ Affinity: religious worship, divinity, humility, serenity
 Aversion: lingering humanoids, aggression, arrogance
 
 
-** Swamp **
+**Swamp**
 
 Description:
 Difficult to travers wet-lands with, mostly covered by humid swamp with tall trees. The few solid pieces of land in the area contain pits of quicksand. 
@@ -218,7 +218,7 @@ Mission:
 
 Local towns are trying to create a bridge through the swamp-land, drying the swamp, displacing it's creatures and allowing for more humanoids to travers this otherwise secluded land. The land would like you to stop or at least hinder this construction.
 
-** Ocean **
+**Ocean**
 
 Description:
 Certain segment of vast ocean, the Witch spends most of her time living on a merchant ship going throught these waters.
@@ -231,7 +231,7 @@ Aversion: man made trash, non-water based Gods and clerics
 
 Mission: Sink a vessel that fishes by luring fish, sharks and vales indiscrimantly by magic into massive traps, destroying local ecosystems in the process.
 
-** Island **
+**Island**
 
 Description:
 (refer to `Shipwreck` oneshot when available) Isolated island with lush jungles and sandy beaches, but surrounded by sharp rocky shores. 
