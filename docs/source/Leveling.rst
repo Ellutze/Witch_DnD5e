@@ -119,7 +119,7 @@ OWL Learns to listen to the land. The Witch can find prominent place in local bi
 
 Gain a spell from the :doc:`Spells List` .
 
-(OWL) gets +2 constitution and proficiency in constitution saving throws when it is staying the same land for more than 2 days (regardless of affinity with the land).
+(OWL) gets +2 constitution and proficiency in constitution saving throws when she is staying the same land for more than 2 days (regardless of affinity with the land).
 
 Proficiency increases:
 
